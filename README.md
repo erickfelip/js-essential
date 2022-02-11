@@ -1,10 +1,19 @@
 # JavaScript Essencial 
 
-Destructuring de arrays e objetos,
-funções, 
-filter, 
-map,
-reduce, 
-classes, 
-promises,
-fetch API.
+💬 Destructuring de arrays e objetos.
+
+💬 Funções.
+
+💬 Filter.
+
+💬 Map.
+
+💬 Reduce.
+
+💬 Classes.
+
+💬 Promises.
+
+💬 Async / Await.
+
+💬 Fetch API.
