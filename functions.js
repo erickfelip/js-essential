@@ -12,7 +12,7 @@ const souUmDado = function () {
 souUmDado();
 
 function execFunction() {
-  console.log("executando a função a baixo");
+  console.log("executando a função abaixo");
 }
 execFunction();
 
